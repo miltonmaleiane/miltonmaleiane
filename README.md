@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot Framework**
 
-- 👯 I’m looking to collaborate on **Java projects**
+- 👯 I’m looking to collaborate on **Java & Django projects **
 
 - 📫 How to reach me **miltonmaleiane1@gmail.com**
 
