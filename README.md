@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maleiane_" target="blank"><img src="https://img.shields.io/twitter/follow/maleiane_?logo=twitter&style=for-the-badge" alt="maleiane_" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot Framework**
+- 🌱 I’m currently learning **Django Framework**
 
 - 👯 I’m looking to collaborate on **Java & Django projects **
 
