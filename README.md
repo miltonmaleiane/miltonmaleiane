@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milton Maleiane Júnior</h1>
-<h3 align="center">A passionate backend developer from Mozambique 🇲🇿</h3>
+<h3 align="center">From Mozambique 🇲🇿</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miltonmaleiane&label=Profile%20views&color=0e75b6&style=flat" alt="miltonmaleiane" /> </p>
 
